@@ -1,7 +1,8 @@
+package org.byucivil.links2osm;
+
 import java.io.File;
 import java.io.IOException;
 import java.util.HashMap;
-import java.util.Optional;
 
 import com.conveyal.osmlib.Node;
 import com.conveyal.osmlib.OSM;

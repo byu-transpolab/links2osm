@@ -1,3 +1,5 @@
+package org.byucivil.links2osm;
+
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
